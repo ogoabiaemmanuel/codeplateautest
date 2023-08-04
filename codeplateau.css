@@ -1,0 +1,42 @@
+/* question 1 */
+body {
+    box-sizing: border-box;
+    background-image: url(https://sportshub.cbsistatic.com/i/2021/03/18/26a4a7e2-e821-40ac-8b5d-6eebe06fdec0/naruto-shikamaru-1243830.jpg);
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;}
+.navbar {
+  overflow: hidden;
+  float: right;
+  
+}
+ .navbar a {
+  float: left;
+  display: block;
+  color: #333;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: 100px;
+  
+}
+ .navbar a:hover {color: #ddd;
+  background-color: #ddd;
+  color: #d4a7a7;
+}
+
+.heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  
+}
+ .paragraph {
+    color: blue;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+/* question 2 */
